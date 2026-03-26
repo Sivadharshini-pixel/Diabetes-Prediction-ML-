@@ -112,3 +112,8 @@ This project demonstrates how Machine Learning can be applied in healthcare to p
 ## 📌 Note
 
 This project is developed for educational purposes as a final year project.
+
+
+## 🌐 Live Demo
+
+🔗 https://sivadharshini-pixel-diabetes-prediction-ml--app-ixrlod.streamlit.app/
